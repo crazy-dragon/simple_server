@@ -1,0 +1,6 @@
+{
+	"author": "Alfred",
+	"major": "Software Engineering",
+	"describle": "A bored man and his interesting things!",
+	"quote": ["Cast a cold EyeOn Life, on Death. Horseman, pass by.", "I love you yesterday and today!", "此心光明，亦复何言。"]
+}
